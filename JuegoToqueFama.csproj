@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C119F7E9-3FFB-412F-85EA-F86836D499C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JuegoToqueFama</RootNamespace>
+    <AssemblyName>JuegoToqueFama</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="probando">
+      <HintPath>..\probando\probando\bin\Debug\probando.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Ganador.xaml.cs">
+      <DependentUpon>Ganador.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Instrucciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instrucciones.Designer.cs">
+      <DependentUpon>Instrucciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Multi.xaml.cs">
+      <DependentUpon>Multi.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Numero.cs" />
+    <Compile Include="Perdedor.xaml.cs">
+      <DependentUpon>Perdedor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Solo.xaml.cs">
+      <DependentUpon>Solo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ToqueFama.cs" />
+    <Page Include="Ganador.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Multi.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Perdedor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Solo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Instrucciones.resx">
+      <DependentUpon>Instrucciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\toque.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Cubo_de_desperdicios_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Usuario_hombre_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Grupo_social_de_música_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Flecha_adelante_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Engranajes_mentales_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Botón_de_borrar_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Menos_en_botón_circular_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Tacómetro_mental_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Help_button_speech_bubble_with_question_mark_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Undo_arrow_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_uno_en_un_círculo_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_dos_en_un_círculo_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_tres_en_un_círculo_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_cuatro_en_botón_circular_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_cinco_en_botón_circular_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_seis_en_un_círculo_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_siete_en_un_círculo_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_ocho_en_un_círculo_256 .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_nueve_en_un_círculo_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\Número_cero_en_un_círculo_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Color-einstein6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\game_over.jpg" />
+    <Resource Include="Images\trofeum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Numeros\0.png" />
+    <Resource Include="Numeros\1.png" />
+    <Resource Include="Numeros\2.png" />
+    <Resource Include="Numeros\3.png" />
+    <Resource Include="Numeros\4.png" />
+    <Resource Include="Numeros\5.png" />
+    <Resource Include="Numeros\6.png" />
+    <Resource Include="Numeros\7.png" />
+    <Resource Include="Numeros\8.png" />
+    <Resource Include="Numeros\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\bak.png" />
+    <Resource Include="Images\close.png" />
+    <Resource Include="Images\delete.png" />
+    <Resource Include="Images\min.png" />
+    <Resource Include="Images\nex.png" />
+    <Resource Include="Images\replay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\user.png" />
+    <Resource Include="Images\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\luz.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

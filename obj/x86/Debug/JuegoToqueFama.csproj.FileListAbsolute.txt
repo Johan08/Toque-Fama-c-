@@ -1,0 +1,142 @@
+C:\Users\leica09\Desktop\JuegoToqueFama\bin\Debug\JuegoToqueFama.exe
+C:\Users\leica09\Desktop\JuegoToqueFama\bin\Debug\JuegoToqueFama.pdb
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\MainWindow.baml
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\MainWindow.g.cs
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\App.g.cs
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama_MarkupCompile.cache
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.g.resources
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Properties.Resources.resources
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csproj.GenerateResource.Cache
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.exe
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.pdb
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.JugarSolo.resources
+C:\Users\leica09\Desktop\JuegoToqueFama\bin\Debug\Wpf1Aceptar.exe
+C:\Users\leica09\Desktop\JuegoToqueFama\bin\Debug\Wpf1Aceptar.pdb
+C:\Users\leica09\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csprojResolveAssemblyReference.cache
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.exe
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.pdb
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\JuegoToqueFama.exe
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\JuegoToqueFama.pdb
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csprojResolveAssemblyReference.cache
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\MainWindow.baml
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\MainWindow.g.cs
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\App.g.cs
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama_MarkupCompile.cache
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.g.resources
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Properties.Resources.resources
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csproj.GenerateResource.Cache
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\probando.exe
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\probando.pdb
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Solo.baml
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Solo.g.cs
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Multi.baml
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Multi.g.cs
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.exe
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.pdb
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\JuegoToqueFama.exe
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\JuegoToqueFama.pdb
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\probando.exe
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\probando.pdb
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csprojResolveAssemblyReference.cache
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\MainWindow.baml
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Multi.baml
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Solo.baml
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Multi.g.cs
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Solo.g.cs
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\App.g.cs
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama_MarkupCompile.cache
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.g.resources
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Properties.Resources.resources
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csproj.GenerateResource.Cache
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.exe
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.pdb
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\JuegoToqueFama.exe
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\JuegoToqueFama.pdb
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\probando.exe
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\bin\Debug\probando.pdb
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csprojResolveAssemblyReference.cache
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\MainWindow.baml
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Multi.baml
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Solo.baml
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\MainWindow.g.cs
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Multi.g.cs
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Solo.g.cs
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\App.g.cs
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama_MarkupCompile.cache
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.g.resources
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Instrucciones.resources
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Properties.Resources.resources
+D:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csproj.GenerateResource.Cache
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Instrucciones.resources
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.exe
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.pdb
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\bin\Debug\JuegoToqueFama.exe
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\bin\Debug\JuegoToqueFama.pdb
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\bin\Debug\probando.pdb
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\MainWindow.baml
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\Multi.baml
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\Solo.baml
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\Multi.g.cs
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\Solo.g.cs
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\App.g.cs
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama_MarkupCompile.cache
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.g.resources
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Instrucciones.resources
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Properties.Resources.resources
+C:\Users\Juan\Desktop\weas\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csproj.GenerateResource.Cache
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Instrucciones.resources
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Ganador.baml
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Perdedor.baml
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Ganador.g.cs
+C:\Users\CristianJesús\Desktop\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Perdedor.g.cs
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Ganador.baml
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Perdedor.baml
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Ganador.g.cs
+E:\Inacap\Segundo Año 2015\Primer Semestre 2015\Progra III\Juego\JuegoToqueFama\obj\x86\Debug\Perdedor.g.cs
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.exe
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.pdb
+C:\Users\Johans\Downloads\JuegoToqueFama\bin\Debug\JuegoToqueFama.exe
+C:\Users\Johans\Downloads\JuegoToqueFama\bin\Debug\JuegoToqueFama.pdb
+C:\Users\Johans\Downloads\JuegoToqueFama\bin\Debug\probando.pdb
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csprojResolveAssemblyReference.cache
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\Ganador.baml
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\MainWindow.baml
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\Multi.baml
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\Perdedor.baml
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\Solo.baml
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\Ganador.g.cs
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\Multi.g.cs
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\Perdedor.g.cs
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\Solo.g.cs
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\App.g.cs
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama_MarkupCompile.cache
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.g.resources
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Instrucciones.resources
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Properties.Resources.resources
+C:\Users\Johans\Downloads\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csproj.GenerateResource.Cache
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.exe
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.pdb
+C:\Users\Johans\Desktop\JuegoToqueFama\bin\Debug\JuegoToqueFama.exe
+C:\Users\Johans\Desktop\JuegoToqueFama\bin\Debug\JuegoToqueFama.pdb
+C:\Users\Johans\Desktop\JuegoToqueFama\bin\Debug\probando.pdb
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csprojResolveAssemblyReference.cache
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\Ganador.baml
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\MainWindow.baml
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\Multi.baml
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\Perdedor.baml
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\Solo.baml
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\Ganador.g.cs
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\Multi.g.cs
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\Perdedor.g.cs
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\Solo.g.cs
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\App.g.cs
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama_MarkupCompile.cache
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.g.resources
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Instrucciones.resources
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.Properties.Resources.resources
+C:\Users\Johans\Desktop\JuegoToqueFama\obj\x86\Debug\JuegoToqueFama.csproj.GenerateResource.Cache

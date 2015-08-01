@@ -1,0 +1,98 @@
+﻿<Window x:Class="JuegoToqueFama.Ganador"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ganador" Height="494.595" Width="411.197" WindowStyle="none" WindowStartupLocation="CenterScreen" MouseLeftButtonDown="move" AllowsTransparency="True" Icon="Images/Tacómetro_mental_256.png" Background="{x:Null}">
+	<Window.Resources>
+		<Storyboard x:Key="Ganador">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="label">
+				<EasingDoubleKeyFrame KeyTime="0" Value="270"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.196" Value="180"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.391" Value="90"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.587" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="label">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.587" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.783" Value="2"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="label">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.587" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.783" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="Felicidades"/>
+        <Storyboard x:Key="Fondo">
+			<PointAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransformOrigin)" Storyboard.TargetName="grid">
+				<EasingPointKeyFrame KeyTime="0" Value="0.5,0.5"/>
+				<EasingPointKeyFrame KeyTime="0:0:0.176" Value="1,0"/>
+				<EasingPointKeyFrame KeyTime="0:0:0.264" Value="1,1"/>
+				<EasingPointKeyFrame KeyTime="0:0:0.382" Value="0,0"/>
+			</PointAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="grid">
+				<EasingDoubleKeyFrame KeyTime="0" Value="3"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.176" Value="7"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.264" Value="10"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.382" Value="10"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.45" Value="5"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="grid">
+				<EasingDoubleKeyFrame KeyTime="0" Value="6"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.176" Value="10"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.264" Value="20"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.382" Value="20"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.45" Value="5"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+	</Window.Resources>
+	<Window.Triggers>
+		<EventTrigger RoutedEvent="FrameworkElement.Loaded">
+			<BeginStoryboard Storyboard="{StaticResource Ganador}"/>
+			<BeginStoryboard Storyboard="{StaticResource Felicidades}"/>
+			<BeginStoryboard Storyboard="{StaticResource Fondo}"/>
+		</EventTrigger>
+	</Window.Triggers>
+    <Grid x:Name="grid" RenderTransformOrigin="10,20" FlowDirection="LeftToRight" Background="#FF3498DB">
+        <Grid.RenderTransform>
+    		<TransformGroup>
+    			<ScaleTransform/>
+    			<SkewTransform/>
+    			<RotateTransform/>
+    			<TranslateTransform/>
+    		</TransformGroup>
+    	</Grid.RenderTransform>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="111*"/>
+            <ColumnDefinition Width="179*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="HAS GANADO!" HorizontalAlignment="Left" Margin="47,158,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="114" Width="324" FontFamily="Showcard Gothic" FontSize="48" RenderTransformOrigin="0.5,0.5" Background="Transparent">
+            <Label.RenderTransform>
+        		<TransformGroup>
+        			<ScaleTransform/>
+        			<SkewTransform/>
+        			<RotateTransform/>
+        			<TranslateTransform/>
+        		</TransformGroup>
+        	</Label.RenderTransform>
+        	 </Label>
+        <Button x:Name="btnBack" Content="" HorizontalAlignment="Left" Margin="7,353,0,0" VerticalAlignment="Top" Width="86" Grid.Column="1" BorderBrush="{x:Null}" Height="84" Click="btnBack_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/replay.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnCerrar" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="187,10,0,0" VerticalAlignment="Top" Width="54" Height="51" BorderBrush="{x:Null}" Click="btnCerrar_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/close.png"/>
+            </Button.Background>
+        </Button>
+        <Label Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="22,426,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="14"/>
+        <Label x:Name="label_Copy" Content="Replay" HorizontalAlignment="Left" Margin="10,442,0,0" VerticalAlignment="Top" Height="29" Width="83" FontFamily="Showcard Gothic" RenderTransformOrigin="0.5,0.5" Background="Transparent" FontSize="18" Grid.Column="1">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+    </Grid>
+</Window>
